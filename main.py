@@ -45,3 +45,15 @@ def check_func(msg,random_number,p) :
 
 
 bot.polling()
+
+
+
+# git init
+# git remove add origin 
+
+
+
+
+# git add .
+# git commit -m 'names commit'
+# git push oirgin
